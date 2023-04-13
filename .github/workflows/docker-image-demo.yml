@@ -1,4 +1,4 @@
-name: Docker Image - Noname setup for VAmPI-Demo
+name: Noname Scan for VAmPI Demo
 
 on:
   push:
